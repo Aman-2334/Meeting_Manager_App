@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "931217812618",
+    "project_id": "themxm",
+    "storage_bucket": "themxm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931217812618:android:4a29b99617c400fc461173",
+        "android_client_info": {
+          "package_name": "com.example.meeting_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931217812618-n33ud2fjaqt45m60lhpglpjohqdrsvmq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.meeting_manager",
+            "certificate_hash": "a21eecaea7a2acb9486b256be06f8e37ca65a397"
+          }
+        },
+        {
+          "client_id": "931217812618-d5i9ngdk7ds5365s6v9m1ngnc733i48f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN_pLXy3TnixhmovHzSJWXI4Qg58Xtap0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931217812618-d5i9ngdk7ds5365s6v9m1ngnc733i48f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

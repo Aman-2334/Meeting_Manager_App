@@ -1,0 +1,27 @@
+{
+    "editor.suggest.showStatusBar": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.wordWrapColumn": 800,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 100,
+    "editor.rulers": [
+    
+    ],
+    "[git-commit]": {
+
+        "editor.rulers": [
+            72
+        ],
+        "workbench.editor.restoreViewState": false
+    },
+    "[dart]": {
+        "editor.tabSize": 2,
+        "editor.insertSpaces": true,
+        "editor.detectIndentation": false,
+        "editor.suggest.insertMode": "replace",
+        "editor.rulers": [
+    
+        ],
+    },
+    "html.format.wrapLineLength": 1200
+}
